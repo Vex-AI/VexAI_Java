@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/base"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/content"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="4dp"
+		android:layout_marginBottom="4dp"
+		android:paddingLeft="5dp"
+		android:paddingTop="10dp"
+		android:paddingRight="5dp"
+		android:paddingBottom="10dp"
+		android:orientation="vertical">
+		<LinearLayout
+			android:id="@+id/linear_user"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="6dp"
+			android:layout_marginTop="5dp"
+			android:layout_marginRight="6dp"
+			android:layout_marginBottom="5dp"
+			android:padding="4dp"
+			android:gravity="center_horizontal|center_vertical"
+			android:orientation="vertical"
+			android:layout_gravity="right"
+			android:background="@drawable/myuser">
+			<TextView
+				android:id="@+id/text1"
+				android:focusable="false"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="16dp"
+				android:layout_marginRight="16dp"
+				android:layout_marginBottom="3dp"
+				android:padding="3dp"
+				android:text="Pergunta do usuário"
+				android:textSize="11sp"
+				android:textStyle="bold"
+				android:textColor="#FFFFFF"
+				android:fontFamily="@font/sourcesanspro_black" />
+			<TextView
+				android:id="@+id/text_user"
+				android:focusable="false"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:text="TextView"
+				android:textSize="12sp"
+				android:textStyle="bold"
+				android:textColor="#FFFFFF"
+				android:fontFamily="RobotoMono-Regular" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/linear_vex"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="6dp"
+			android:layout_marginTop="5dp"
+			android:layout_marginRight="6dp"
+			android:layout_marginBottom="5dp"
+			android:padding="4dp"
+			android:gravity="center_horizontal|center_vertical"
+			android:orientation="vertical"
+			android:layout_gravity="left"
+			android:background="@drawable/user">
+			<TextView
+				android:id="@+id/text2"
+				android:focusable="false"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="16dp"
+				android:layout_marginRight="16dp"
+				android:layout_marginBottom="3dp"
+				android:padding="3dp"
+				android:text="Resposta da vex"
+				android:textSize="11sp"
+				android:textStyle="bold"
+				android:textColor="#FFFFFF"
+				android:fontFamily="@font/sourcesanspro_black" />
+			<TextView
+				android:id="@+id/text_vex"
+				android:focusable="false"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:text="TextView"
+				android:textSize="12sp"
+				android:textStyle="bold"
+				android:textColor="#FFFFFF"
+				android:ems="12"
+				android:fontFamily="RobotoMono-Regular" />
+		</LinearLayout>
+		<ImageView
+			android:id="@+id/delete"
+			android:layout_width="50dp"
+			android:layout_height="50dp"
+			android:layout_margin="4dp"
+			android:padding="7dp"
+			android:gravity="center_horizontal|center_vertical"
+			android:orientation="horizontal"
+			android:layout_gravity="center_horizontal|center_vertical"
+			android:src="@drawable/delete_icon"
+			android:background="@drawable/pesquisa"
+			android:elevation="4dp" />
+	</LinearLayout>
+</LinearLayout>

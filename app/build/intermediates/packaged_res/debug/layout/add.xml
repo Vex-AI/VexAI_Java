@@ -1,0 +1,203 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<FrameLayout
+		android:id="@+id/frame"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		android:background="@drawable/vex_gd">
+		<ImageView
+			android:id="@+id/image_background"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="horizontal"
+			android:scaleType="centerCrop" />
+		<LinearLayout
+			android:id="@+id/base"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:gravity="center_horizontal|top"
+			android:orientation="vertical">
+			<LinearLayout
+				android:id="@+id/linear_ad"
+				android:layout_width="match_parent"
+				android:layout_height="90dp"
+				android:layout_marginBottom="80dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:orientation="horizontal">
+						</LinearLayout>
+			<TextView
+				android:id="@+id/text_learn"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:text="Ensine-me Algo &gt;:3"
+				android:textSize="18sp"
+				android:textStyle="bold"
+				android:textColor="#FFFFFF"
+				android:fontFamily="@font/sourcesanspro_black" />
+			<LinearLayout
+				android:id="@+id/round_base"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="20dp"
+				android:layout_marginRight="20dp"
+				android:padding="6dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:orientation="vertical"
+				android:background="@drawable/pesquisa">
+				<TextView
+					android:id="@+id/text_pgs"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:text="Oque eu vou dizer: "
+					android:textSize="16sp"
+					android:textColor="#000000"
+					android:fontFamily="@font/montserrat_regular" />
+				<LinearLayout
+					android:id="@+id/round_pgs"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginLeft="10dp"
+					android:layout_marginRight="10dp"
+					android:orientation="horizontal"
+					android:elevation="10dp"
+					android:background="@drawable/pesquisa">
+					<EditText
+						android:id="@+id/pgs"
+						android:layout_width="match_parent"
+						android:layout_height="match_parent"
+						android:padding="8dp"
+						android:background="@android:color/transparent"
+						android:gravity="center_horizontal|center_vertical"
+						android:textSize="18sp"
+						android:textStyle="bold"
+						android:textColor="#000000"
+						android:textColorHint="#000000"
+						android:singleLine="true"
+						android:layout_weight="1"
+						android:maxLength="160"
+						android:fontFamily="@font/montserrat_regular" />
+					<ImageView
+						android:id="@+id/vector_delete1"
+						android:layout_width="40dp"
+						android:layout_height="40dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:src="@drawable/delete_icon" />
+				</LinearLayout>
+				<LinearLayout
+					android:id="@+id/linear_clear"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginTop="5dp"
+					android:layout_marginBottom="5dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:orientation="horizontal">
+					<CheckBox
+						android:id="@+id/clear"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:padding="8dp"
+						android:textSize="12sp"
+						android:textColor="#000000"
+						android:minWidth="0dp"
+						android:minHeight="0dp"
+						android:buttonTint="@color/indigo" />
+					<TextView
+						android:id="@+id/textview7"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:gravity="center_horizontal|center_vertical"
+						android:text="Limpeza de acentos\n (frases sem acentuações)"
+						android:textSize="14sp"
+						android:textColor="#000000"
+						android:fontFamily="@font/montserrat_regular" />
+				</LinearLayout>
+				<TextView
+					android:id="@+id/text_rps"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:text="Oque a vex vai responder:"
+					android:textSize="16sp"
+					android:textColor="#000000"
+					android:fontFamily="@font/montserrat_regular" />
+				<LinearLayout
+					android:id="@+id/round_rps"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginLeft="10dp"
+					android:layout_marginRight="10dp"
+					android:layout_marginBottom="3dp"
+					android:orientation="horizontal"
+					android:elevation="10dp"
+					android:background="@drawable/pesquisa">
+					<EditText
+						android:id="@+id/rps"
+						android:layout_width="wrap_content"
+						android:layout_height="match_parent"
+						android:padding="8dp"
+						android:background="@android:color/transparent"
+						android:gravity="center_horizontal|center_vertical"
+						android:textSize="16sp"
+						android:textStyle="bold"
+						android:textColor="#000000"
+						android:textColorHint="#000000"
+						android:singleLine="true"
+						android:layout_weight="1"
+						android:maxLength="160"
+						android:fontFamily="@font/montserrat_regular" />
+					<ImageView
+						android:id="@+id/vector_delete2"
+						android:layout_width="40dp"
+						android:layout_height="40dp"
+						android:padding="8dp"
+						android:orientation="horizontal"
+						android:src="@drawable/delete_icon" />
+				</LinearLayout>
+				<TextView
+					android:id="@+id/tags"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:text="Tags: +v(Nome da vex), +n(Meu nome)"
+					android:textSize="16sp"
+					android:textColor="#000000"
+					android:fontFamily="@font/montserrat_regular" />
+			</LinearLayout>
+			<com.google.android.material.button.MaterialButton
+				android:id="@+id/save"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="20dp"
+				android:layout_marginBottom="25dp"
+				android:paddingLeft="7dp"
+				android:paddingTop="4dp"
+				android:paddingRight="7dp"
+				android:paddingBottom="4dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:text="Salvar"
+				android:textSize="16sp"
+				android:textColor="#FFFFFF"
+				android:textAppearance="@style/TextAppearance.MaterialComponents.Button"
+				style="@style/Widget.MaterialComponents.Button"
+				android:backgroundTint="@color/verde"
+				android:fontFamily="@font/sourcesanspro_black"
+				app:rippleColor="@color/branco"
+				app:strokeWidth="1dp"
+				app:strokeColor="@color/branco"
+				app:iconTint="@color/branco"
+				app:icon="@drawable/add_icon" />
+		</LinearLayout>
+	</FrameLayout>
+</LinearLayout>

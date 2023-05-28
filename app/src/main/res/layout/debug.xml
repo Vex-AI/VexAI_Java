@@ -1,0 +1,69 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<FrameLayout
+		android:id="@+id/frame"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		android:background="@drawable/vex_gd">
+		<ImageView
+			android:id="@+id/image_background"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="horizontal"
+			android:scaleType="centerCrop" />
+		<LinearLayout
+			android:id="@+id/base"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:padding="24dp"
+			android:gravity="center_horizontal|top"
+			android:orientation="vertical">
+			<TextView
+				android:id="@+id/info"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:gravity="center_horizontal"
+				android:text="ESTAMOS FAZENDO MUDANÇAS FREQUENTEMENTE NA VEX. EM CASO DE ERROS LIMPE OS DADOS E SE OS ERROS AINDA PERSISTIREM, CONTATE-NOS:\ncookieukw\@proton.me"
+				android:textSize="12sp"
+				android:textColor="#000000"
+				android:background="@drawable/pesquisa"
+				android:fontFamily="@font/montserrat_regular" />
+			<LinearLayout
+				android:id="@+id/content"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="12dp"
+				android:layout_marginBottom="12dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:orientation="horizontal"
+				android:layout_weight="1">
+				<ScrollView
+					android:id="@+id/scroll"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:layout_gravity="center_horizontal|center_vertical"
+					android:background="@drawable/pesquisa"
+					android:scrollbars="none">
+					<TextView
+						android:id="@+id/textview1"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:padding="8dp"
+						android:gravity="center_horizontal|center_vertical"
+						android:text="TextView"
+						android:textSize="12sp"
+						android:textStyle="bold"
+						android:textColor="#F44336"
+						android:fontFamily="@font/montserrat_regular" />
+				</ScrollView>
+			</LinearLayout>
+		</LinearLayout>
+	</FrameLayout>
+</LinearLayout>

@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_dark_dialog_radius.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/dark_dialog_radius.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-hdpi_vex_background.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-hdpi/vex_background.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable-xhdpi_vex_tutorial_2.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable-xhdpi/vex_tutorial_2.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_drawer.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/drawer.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_list_databases.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/list_databases.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_list.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/list.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-anydpi-v26_vex.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-anydpi-v26/vex.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_custom_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/custom_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_settings.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/settings.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_iris.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/iris.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_quote_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/quote_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-hdpi_vex_foreground.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-hdpi/vex_foreground.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable-xhdpi_wpp.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable-xhdpi/wpp.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_terms.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/terms.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_img.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/img.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_customize.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/customize.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_export_online_data_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/export_online_data_icon.xml"
+    },
+    {
+        "merged": "com.cookie.vex.app-merged_res-35:/layout_banco.xml.flat",
+        "source": "com.cookie.vex.app-main-37:/layout/banco.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_user.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/user.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_chat.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/chat.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_database_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/database_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_add.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/add.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable-xhdpi_vex_tutorial_6.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable-xhdpi/vex_tutorial_6.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_pesquisa.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/pesquisa.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_import_online_data_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/import_online_data_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_delete_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/delete_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_import_data_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/import_data_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_vex_gd.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/vex_gd.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_previous_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/previous_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout__drawer_home.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/_drawer_home.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable-xhdpi_app_icon.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_sugestion.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/sugestion.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_coffee_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/coffee_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_setname.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/setname.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/anim_slide_in_right.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-xxhdpi_vex.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-xxhdpi/vex.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-xhdpi_vex_foreground.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-xhdpi/vex_foreground.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_add_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/add_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_database.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/database.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_about.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/about.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_update.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/update.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_load_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/load_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable-xhdpi_vex_tutorial_5.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable-xhdpi/vex_tutorial_5.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/anim_fade_in.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/anim/fade_in.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_home.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/home.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-mdpi_vex_foreground.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-mdpi/vex_foreground.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_update.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/update.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_export_data_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/export_data_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_back_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/back_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_nickname.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/nickname.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-xxhdpi_vex_foreground.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-xxhdpi/vex_foreground.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_btnv.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/btnv.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/anim_slide_out_left.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-xhdpi_vex_background.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-xhdpi/vex_background.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_clear_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/clear_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/font_montserrat_regular.ttf.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/font/montserrat_regular.ttf"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-xxxhdpi_vex_background.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-xxxhdpi/vex_background.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_debug.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/debug.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_account_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/account_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_edit_acc_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/edit_acc_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_skip_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/skip_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_mail.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/mail.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-xxhdpi_vex_background.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-xxhdpi/vex_background.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_policy_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/policy_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-xxxhdpi_vex.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-xxxhdpi/vex.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_ovo_bg.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/ovo_bg.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-hdpi_vex.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-hdpi/vex.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable-xhdpi_vex_tutorial_1.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable-xhdpi/vex_tutorial_1.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-xxxhdpi_vex_foreground.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-xxxhdpi/vex_foreground.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_pick_image_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/pick_image_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_myuser.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/myuser.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/xml_paths.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/xml/paths.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_banco.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/banco.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable-xhdpi_default_image.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable-xhdpi/default_image.png"
+    },
+    {
+        "merged": "com.cookie.vex.app-merged_res-35:/layout_update.xml.flat",
+        "source": "com.cookie.vex.app-main-37:/layout/update.xml"
+    },
+    {
+        "merged": "com.cookie.vex.app-merged_res-35:/layout_add.xml.flat",
+        "source": "com.cookie.vex.app-main-37:/layout/add.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-mdpi_vex.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-mdpi/vex.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_main.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/main.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/font_sourcesanspro_black.ttf.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/font/sourcesanspro_black.ttf"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_book_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/book_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_list_view.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/list_view.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-xhdpi_vex.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-xhdpi/vex.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_send.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/send.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/mipmap-mdpi_vex_background.png.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/mipmap-mdpi/vex_background.png"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_info_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/info_icon.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/layout_tutorial.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/layout/tutorial.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-merged_res-35:/drawable_save_icon.xml.flat",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.cookie.vex.app-main-37:/drawable/save_icon.xml"
+    }
+]

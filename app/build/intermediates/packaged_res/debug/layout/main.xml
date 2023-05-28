@@ -1,0 +1,72 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<FrameLayout
+		android:id="@+id/frame"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		android:background="@drawable/vex_gd">
+		<ImageView
+			android:id="@+id/image_background"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="horizontal"
+			android:scaleType="centerCrop" />
+		<LinearLayout
+			android:id="@+id/base"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:padding="8dp"
+			android:gravity="center_horizontal|center_vertical"
+			android:orientation="vertical"
+			android:layout_gravity="center_horizontal|center_vertical">
+			<com.google.android.material.card.MaterialCardView
+				android:id="@+id/card_vector"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="8dp"
+				android:layout_marginBottom="8dp"
+				app:cardCornerRadius="18dp"
+				app:strokeColor="@color/branco"
+				app:strokeWidth="2dp">
+				<ImageView
+					android:id="@+id/vector"
+					android:layout_width="55dp"
+					android:layout_height="55dp"
+					android:orientation="horizontal"
+					android:src="@drawable/app_icon" />
+			</com.google.android.material.card.MaterialCardView>
+			<com.iitr.kaishu.nsidedprogressbar.NSidedProgressBar
+				android:id="@+id/pg_bar"
+				android:layout_width="50dp"
+				android:layout_height="50dp"
+				android:padding="4dp"
+				android:orientation="horizontal"
+				app:nsidedProg_baseSpeed="6"
+				app:nsidedProg_sideCount="8"
+				app:nsidedProg_clockwise="true"
+				app:nsidedProg_primaryColor="#FFFFEBEE"
+				app:nsidedProg_secondaryColor="#FFF44336" />
+			<TextView
+				android:id="@+id/dica_txt"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="40dp"
+				android:layout_marginTop="190dp"
+				android:layout_marginRight="40dp"
+				android:padding="8dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:text="Leia os termos de uso!"
+				android:textSize="14sp"
+				android:textColor="#F44336"
+				android:layout_gravity="center_horizontal|bottom"
+				android:background="@drawable/pesquisa"
+				android:fontFamily="@font/montserrat_regular" />
+		</LinearLayout>
+	</FrameLayout>
+</LinearLayout>

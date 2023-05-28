@@ -1,0 +1,86 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<FrameLayout
+		android:id="@+id/frame"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		android:background="@drawable/vex_gd">
+		<ImageView
+			android:id="@+id/image_background"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="horizontal"
+			android:scaleType="centerCrop" />
+		<LinearLayout
+			android:id="@+id/content"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:gravity="center_horizontal|top"
+			android:orientation="vertical">
+		<AutoCompleteTextView
+				android:id="@+id/search"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="20dp"
+				android:layout_marginTop="9dp"
+				android:layout_marginRight="20dp"
+				android:padding="8dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:textSize="16sp"
+				android:textColor="#000000"
+				android:hint="Digite para pesquisar"
+				android:textColorHint="#000000"
+				android:maxLength="1000"
+				android:background="@drawable/pesquisa"
+				android:maxLines="3"
+				android:completionThreshold="4"
+				android:fontFamily="@font/montserrat_regular" />
+			<TextView
+				android:id="@+id/value"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="20dp"
+				android:layout_marginRight="15dp"
+				android:layout_marginBottom="15dp"
+				android:padding="4dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:text="..."
+				android:textSize="10sp"
+				android:textColor="#FFFFFF"
+				android:layout_gravity="center_horizontal|center_vertical" />
+			<androidx.recyclerview.widget.RecyclerView
+				android:id="@+id/datalist"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_weight="1" />
+			<com.google.android.material.button.MaterialButton
+				android:id="@+id/delete_all"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="5dp"
+				android:layout_marginTop="10dp"
+				android:layout_marginRight="5dp"
+				android:layout_marginBottom="10dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:text="SEGURE AQUI PARA APAGAR TUDO"
+				android:textSize="11sp"
+				android:textColor="#FFFFFF"
+				android:textAppearance="@style/TextAppearance.MaterialComponents.Button"
+				app:backgroundTint="@color/vermelho"
+				app:cornerRadius="8dp"
+				style="@style/Widget.MaterialComponents.Button"
+				android:fontFamily="@font/sourcesanspro_black"
+				app:rippleColor="@color/branco"
+				app:strokeWidth="1dp"
+				app:strokeColor="@color/branco"
+				app:iconTint="@color/branco"
+				app:icon="@drawable/delete_icon" />
+		</LinearLayout>
+	</FrameLayout>
+</LinearLayout>

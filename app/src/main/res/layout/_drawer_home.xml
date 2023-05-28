@@ -1,0 +1,212 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/base"
+		android:layout_width="275dp"
+		android:layout_height="match_parent"
+		android:orientation="vertical">
+		<LinearLayout
+			android:id="@+id/contribution"
+			android:layout_width="match_parent"
+			android:layout_height="60dp"
+			android:layout_marginTop="6dp"
+			android:layout_marginBottom="3dp"
+			android:padding="8dp"
+			android:gravity="left|center_vertical"
+			android:orientation="horizontal"
+			android:background="@drawable/drawer">
+			<ImageView
+				android:id="@+id/contribution_icon"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:orientation="horizontal"
+				android:src="@drawable/coffee_icon" />
+			<TextView
+				android:id="@+id/text_ads"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:text="Anúncios"
+				android:textSize="16sp"
+				android:textColor="#000000"
+				android:fontFamily="@font/montserrat_regular" />
+			<Switch
+				android:id="@+id/donation"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textSize="10sp"
+				android:textColor="#000000"
+				android:checked="true"
+				android:theme="@style/cookie" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/customizar"
+			android:layout_width="match_parent"
+			android:layout_height="60dp"
+			android:layout_marginTop="3dp"
+			android:layout_marginBottom="3dp"
+			android:padding="8dp"
+			android:gravity="left|center_vertical"
+			android:orientation="horizontal"
+			android:background="@drawable/drawer">
+			<ImageView
+				android:id="@+id/customize_icon"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:orientation="horizontal"
+				android:src="@drawable/custom_icon" />
+			<TextView
+				android:id="@+id/text_chat_customize"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:text="Customizar chat"
+				android:textSize="16sp"
+				android:textColor="#000000"
+				android:fontFamily="@font/montserrat_regular" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/database"
+			android:layout_width="match_parent"
+			android:layout_height="60dp"
+			android:layout_marginTop="3dp"
+			android:layout_marginBottom="3dp"
+			android:padding="8dp"
+			android:gravity="left|center_vertical"
+			android:orientation="horizontal"
+			android:background="@drawable/drawer">
+			<ImageView
+				android:id="@+id/database_icon"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:orientation="horizontal"
+				android:src="@drawable/database_icon" />
+			<TextView
+				android:id="@+id/text_vex_learn"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:text="Sabedoria da Vex"
+				android:textSize="16sp"
+				android:textColor="#000000"
+				android:singleLine="true"
+				android:fontFamily="@font/montserrat_regular" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/settings"
+			android:layout_width="match_parent"
+			android:layout_height="60dp"
+			android:layout_marginTop="3dp"
+			android:layout_marginBottom="3dp"
+			android:padding="8dp"
+			android:gravity="left|center_vertical"
+			android:orientation="horizontal"
+			android:background="@drawable/drawer">
+			<ImageView
+				android:id="@+id/functions_icon"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:orientation="horizontal"
+				android:src="@drawable/export_data_icon" />
+			<TextView
+				android:id="@+id/text_learn_functions"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:text="Funções da sabedoria "
+				android:textSize="16sp"
+				android:textColor="#000000"
+				android:fontFamily="@font/montserrat_regular" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/clear"
+			android:layout_width="match_parent"
+			android:layout_height="60dp"
+			android:layout_marginTop="3dp"
+			android:layout_marginBottom="3dp"
+			android:padding="8dp"
+			android:gravity="left|center_vertical"
+			android:orientation="horizontal"
+			android:background="@drawable/drawer">
+			<ImageView
+				android:id="@+id/clear_icon"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:orientation="horizontal"
+				android:src="@drawable/clear_icon" />
+			<TextView
+				android:id="@+id/text_clear_chat"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:text="Limpar chat"
+				android:textSize="16sp"
+				android:textColor="#000000"
+				android:fontFamily="@font/montserrat_regular" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/tutorial"
+			android:layout_width="match_parent"
+			android:layout_height="60dp"
+			android:layout_marginTop="3dp"
+			android:layout_marginBottom="3dp"
+			android:padding="8dp"
+			android:gravity="left|center_vertical"
+			android:orientation="horizontal"
+			android:background="@drawable/drawer">
+			<ImageView
+				android:id="@+id/tutorial_icon"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:orientation="horizontal"
+				android:src="@drawable/book_icon" />
+			<TextView
+				android:id="@+id/text_tutorial"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:text="Como usar"
+				android:textSize="16sp"
+				android:textColor="#000000"
+				android:fontFamily="@font/montserrat_regular" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/about"
+			android:layout_width="match_parent"
+			android:layout_height="60dp"
+			android:layout_marginTop="3dp"
+			android:layout_marginBottom="3dp"
+			android:padding="8dp"
+			android:gravity="left|center_vertical"
+			android:orientation="horizontal"
+			android:background="@drawable/drawer">
+			<ImageView
+				android:id="@+id/about_icon"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="7dp"
+				android:orientation="horizontal"
+				android:src="@drawable/info_icon" />
+			<TextView
+				android:id="@+id/text_about"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:text="Sobre nós "
+				android:textSize="16sp"
+				android:textColor="#000000"
+				android:fontFamily="@font/montserrat_regular" />
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

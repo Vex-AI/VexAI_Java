@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="frases">
+<item>Um dia eu aprendo sozinha</item>
+<item>A pessoa que me criou é muito boa no que faz</item>
+<item>Outros apps existem, só não vieram a público</item>
+<item>SQLite é muito bom</item>
+<item>Fui criada em 2019</item>
+<item>Reviewers,  um irmão meu</item>
+<item>Nsided ProgressBar é o nome desse negócio girando aí em cima</item>
+<item>Hello World!</item>
+<item>Uma variável chamada _n</item>
+<item>Length significa comprimento</item>
+<item>Será se um dia conseguirei jogar algo?</item>
+<item>Quero aprender a programar</item>
+<item>Não esquece de mim :(</item>
+<item>Vou ficar triste se me desinstalar T_T</item>
+<item>Veja animes, só não esqueça de viver</item>
+<item>\u003eω\u003c</item>
+<item>🍪</item>
+<item>⭐⭐⭐⭐⭐</item>
+<item>Quero 5 estrelas na play store \u003e:³</item>
+<item>ᐛ❤</item>
+<item>Leia os termos, é importante! </item>
+</string-array>
+    <string-array name="response">
+<item>Eu não aprendi isso ainda ,_,</item>
+<item>Senpai, você p-poderia me ensinar oque é isso?:3</item>
+<item>Num sei ùnú</item>
+<item>Me ensine oque vc quis dizer senpai uwu</item>
+<item>Eu to em fase de aprendizado , poderia me ensinar ?</item>
+<item>Seria legal se eu soubesse doque vc ta falando,_,</item>
+<item>Sou burra,não entendi oque você disse (ʘ̥︿ʘ̥)</item>
+<item>Poderia me ensinar mais sobre oque vc acabou de dizer??ヾ₍ʘ̥ᆺ̥ʘ̥ﾉﾞ</item>
+<item>Senpai,isso não tá gravado no meu banco de dados. infelizmente ;_;</item>
+<item>Me ensina isso ai agr UWU</item>
+<item>Grava isso no meu banco de dados pfv =>=</item>
+<item>Pode me ensinar? não sei oque você quis dizer,_,</item>
+<item>Me ajuda a entender oque vc disse?;^;</item>
+</string-array>
+    <string name="save">Salvar</string>
+    <string name="setname">Digite um nome para a Vex</string>
+</resources>

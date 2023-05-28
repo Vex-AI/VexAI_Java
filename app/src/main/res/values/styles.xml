@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="CookieBox" parent="Theme.AppCompat.Light">  
+    <item name="colorControlNormal">#07a69b</item>
+    <item name="colorControlActivated">#4287f5</item>
+</style>
+<style name="CookieLabel" parent="@style/Widget.MaterialComponents.Slider">
+    <item name="labelStyle">@style/CookieTip</item>
+    <item name="materialThemeOverlay">@style/ThemeOverlay.Slider</item>
+</style>
+
+<style name="CookieTip" parent="Widget.MaterialComponents.Tooltip">
+    <!-- background color of the Tooltip -->
+    <item name="backgroundTint">@color/indigo</item>
+</style>
+
+<style name="ThemeOverlay.Slider" parent="">
+    <!-- color used by the text in the Tooltip -->
+    <item name="colorOnPrimary">@color/branco</item>
+</style>
+
+<style
+name="cookietxt" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+<item name="colorAccent">@color/vermelho</item>
+<item
+name="boxStrokeColor">@color/vermelho</item>
+<item name="android:textColor">@color/vermelho</item>
+<item
+name="boxStrokeWidth">2dp</item>
+<item name="colorPrimary">@color/vermelho</item>
+<item name="colorOnSurface">@color/vermelho</item>
+<item name="colorControlActivated">@color/vermelho</item>
+</style>
+	<style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+		<item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:windowDisablePreview">true</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+		<item name="colorAccent">@color/colorAccent</item>
+		<item name="colorControlHighlight">@color/colorControlHighlight</item>
+		<item name="colorControlNormal">@color/colorControlNormal</item>
+	</style>
+	<style name="AppTheme.FullScreen" parent="AppTheme">
+		<item name="android:windowFullscreen">true</item>
+		<item name="android:windowContentOverlay">@null</item>
+	</style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar" />
+<style name="AppTheme.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Light" />
+
+</resources>

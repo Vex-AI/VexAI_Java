@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     xmlns:tools="http://schemas.android.com/tools"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent"
+     android:orientation="vertical">
+
+    <FrameLayout
+         android:layout_height="match_parent"
+         android:layout_width="match_parent"
+         android:background="@drawable/vex_gd"
+         android:orientation="vertical"
+         android:id="@+id/linear1">
+
+        <ImageView
+             android:layout_height="match_parent"
+             android:layout_width="match_parent"
+             android:scaleType="centerCrop"
+             android:orientation="horizontal"
+             android:id="@+id/image_background" />
+
+        <RelativeLayout
+             android:layout_height="match_parent"
+             android:layout_width="match_parent"
+             android:orientation="vertical"
+             android:id="@+id/background">
+
+            <LinearLayout
+                 android:layout_height="210dp"
+                 android:layout_width="match_parent"
+                 android:gravity="center_horizontal|center_vertical"
+                 android:background="@drawable/ovo_bg"
+                 android:padding="8dp"
+                 android:orientation="horizontal"
+                 android:id="@+id/oval_linear">
+
+            </LinearLayout>
+
+            <androidx.cardview.widget.CardView
+                 android:layout_height="wrap_content"
+                 android:layout_width="175dp"
+                 android:layout_centerInParent="true"
+                 android:layout_below="@id/oval_linear"
+                 android:gravity="center_horizontal|center_vertical"
+                 app:cardElevation="8dp"
+                 app:cardBackgroundColor="@color/branco"
+                 android:layout_marginTop="-40dp"
+                 app:cardCornerRadius="10dp"
+                 android:id="@+id/card"
+                 android:layout_gravity="center_horizontal|center_vertical">
+
+                <TextView
+                     android:layout_height="wrap_content"
+                     android:layout_width="match_parent"
+                     android:padding="3dp"
+                     android:textSize="18sp"
+                     android:layout_alignParentLeft="true"
+                     android:textColor="#000000"
+                     android:singleLine="true"
+                     android:layout_gravity="center_horizontal|center_vertical"
+                     android:gravity="center_horizontal|center_vertical"
+                     android:background="@drawable/pesquisa"
+                     android:layout_margin="8dp"
+                     android:layout_alignParentTop="true"
+                     android:id="@+id/config_text"
+                     android:text="Configurações" />
+
+            </androidx.cardview.widget.CardView>
+
+            <LinearLayout
+                 android:layout_height="match_parent"
+                 android:layout_width="match_parent"
+                 android:layout_centerInParent="true"
+                 android:layout_below="@id/card"
+                 android:gravity="center_horizontal|top"
+                 android:orientation="vertical"
+                 android:layout_weight="1"
+                 android:id="@+id/config">
+
+                <androidx.cardview.widget.CardView
+                     android:layout_height="wrap_content"
+                     android:layout_width="match_parent"
+                     android:layout_marginBottom="10dp"
+                     android:layout_marginLeft="15dp"
+                     android:layout_marginRight="15dp"
+                     app:cardBackgroundColor="#231942"
+                     android:layout_marginTop="7dp"
+                     app:cardCornerRadius="10dp"
+                     android:id="@+id/card_sinopse">
+
+                    <LinearLayout
+                         android:layout_height="wrap_content"
+                         android:layout_width="match_parent"
+                         android:paddingRight="8dp"
+                         android:orientation="vertical"
+                         android:paddingLeft="8dp"
+                         android:layout_marginTop="20dp"
+                         android:id="@+id/content">
+
+                        <com.google.android.material.button.MaterialButton
+                             android:layout_height="50dp"
+                             android:layout_width="match_parent"
+                             app:rippleColor="@color/branco"
+                             app:backgroundTint="#231942"
+                             app:strokeColor="@color/branco"
+                             android:textSize="16sp"
+                             app:iconTint="@color/branco"
+                             android:layout_marginLeft="8dp"
+                             android:textColor="#FFFFFF"
+                             android:layout_marginTop="16dp"
+                             android:layout_marginBottom="8dp"
+                             app:icon="@drawable/import_data_icon"
+                             android:gravity="center_horizontal|center_vertical"
+                             android:textAppearance="@style/TextAppearance.MaterialComponents.Button"
+                             app:cornerRadius="9dp"
+                             android:fontFamily="@font/sourcesanspro_black"
+                             app:strokeWidth="1dp"
+                             android:layout_marginRight="8dp"
+                             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
+                             android:id="@+id/import_file"
+                             android:text="Importar do arquivo" />
+
+                        <com.google.android.material.button.MaterialButton
+                             android:layout_height="50dp"
+                             android:layout_width="match_parent"
+                             app:rippleColor="@color/branco"
+                             app:backgroundTint="#231942"
+                             app:strokeColor="@color/branco"
+                             android:textSize="16sp"
+                             app:iconTint="@color/branco"
+                             android:textColor="#FFFFFF"
+                             app:icon="@drawable/export_data_icon"
+                             android:gravity="center_horizontal|center_vertical"
+                             android:textAppearance="@style/TextAppearance.MaterialComponents.Button"
+                             android:layout_margin="8dp"
+                             app:cornerRadius="9dp"
+                             android:fontFamily="@font/sourcesanspro_black"
+                             app:strokeWidth="1dp"
+                             style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
+                             android:id="@+id/export_file"
+                             android:text="Exportar para arquivo" />
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </FrameLayout>
+
+</LinearLayout>

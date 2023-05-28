@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="app_name" translatable="false">Vex IA</string>
+<item type="bool" name="anuncio">true</item>
+<string name="ads_id">ca-app-pub-7127452959332447/2816674065</string>
+<string name="data">iyrKgW7pDQ7/bCyFpWcqH43vJv6YyXi0AX98P1bKYFIDIn99ziTTkN7haVFztMYJ</string>
+<string name="MODE">Blowfish/CBC/PKCS5Padding</string>
+<string name="ALGORITHM">Blowfish</string>
+<string-array name="frases">
+<item>One day I learn alone</item>
+<item>Whoever raised me is good at what he does</item>
+<item>SQLite is very good</item>
+<item>I was created in 2019</item>
+<item>Nsided ProgressBar is the name of that rotating section up there</item>
+<item>Hello World!</item>
+<item>A variable called _n</item>
+<item>Will I ever be able to play something?</item>
+<item>I want to learn to program</item>
+<item>Do not forget me :(</item>
+<item>I will be sad if you uninstall me T_T</item>
+<item>Watch anime, just don\'t forget to live</item>
+<item>\u003eω\u003c</item>
+<item>🍪</item>
+<item>⭐⭐⭐⭐⭐</item>
+<item>I want 5 stars on the play store \u003e:³</item>
+<item>ᐛ❤</item>
+<item>Read the terms, it\'s important!</item>
+</string-array>
+<string-array name="response">
+
+<item>I don\'t know ùnú</item>
+<item>Teach me what you mean senpai uwu</item> <item>I\'m in the learning phase, could you teach me?:3</item>
+<item>It would be nice if I knew what you\'re talking about,_,</item>
+<item>I\'m stupid, I didn\'t understand what you said (ʘ̥︿ʘ̥)</item>
+<item>Could you teach me more about what you just said??ヾ₍ʘ̥ᆺ̥ʘ̥ﾉ\ﾞ</item>
+<item>Senpai, this is not recorded in my database, unfortunately ;_;</item>
+<item>Teach me this now UwU</item>
+<item>Writes this to my database pls =>=</item> <item>Can you teach me? I don\'t know what you mean,_,</item>
+<item>Help me understand what you said?;^;</item>
+</string-array>
+<string name="setname">Enter a name for the Vex</string>
+<string name="n">nada</string>
+<string name="save">Save</string>
+<string name="delete_bg">Delete current background</string>
+<string name="pick_bg">Pick a background</string>
+<string name="save_bg">Save background</string>
+</resources>
