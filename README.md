@@ -1,6 +1,6 @@
 <div align="center">
   <h2>About Vex AI</h2>
-  
+    <img src="https://github.com/Vex-AI/VexAI/blob/main/public/Vex_320.png" width="160" height="160" >
   <p align="justify">
     Welcome to the VexAI project! An ever-evolving artificial intelligence project since 2019. Initially developed as an Android app in Java, I faced challenges implementing advanced machine learning features. 
   <br><br>
