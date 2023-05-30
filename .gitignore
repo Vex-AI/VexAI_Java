@@ -4,4 +4,3 @@ gradle.properties
 .env
 *.jks
 /.androidide
-/.gradle
